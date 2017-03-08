@@ -1,0 +1,41 @@
+body {
+	background-image: url("../images/ghost-logo.png");
+	background-position: center;
+	background-repeat: repeat;
+	background-color: black;
+	color: white;
+
+}
+.jumbotron{
+	background: transparent;
+	border: solid;
+}
+
+.gameTitle {
+	font-family: 'Ewert', cursive;
+	text-align: center;
+	font-size: 100px;
+
+}
+
+.papaImage{
+	font-family: 'Archivo Narrow', sans-serif;
+	text-align: center;
+
+}
+
+.disclamer{
+	font-family: 'Archivo Narrow', sans-serif;
+	text-align: center;
+}
+#papaResp{
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+.gameFrame{
+	font-family: 'Archivo Narrow', sans-serif;
+	text-align: center;
+
+}
